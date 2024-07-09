@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f7b0dc9-8a72-4520-b7a3-812fc9559877" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2ece013e-334a-4824-bb87-25608c190596" name="Changes" comment="프로젝트#1b">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1b.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SP24_PRO1B.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2gAIkhP1Ch1oqPfVQir1oEQtrHr" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gALiOV3K7mC9EcG7REL6fu3OWp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,43 +33,86 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Project/SP24_PRO1B",
+    "last_opened_file_path": "C:/Project/project2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Project/project1b/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Assembler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assembler" />
+      <module name="SP24_PRO1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assembler" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\seoge\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f7b0dc9-8a72-4520-b7a3-812fc9559877" name="Changes" comment="" />
-      <created>1715134105898</created>
+      <changelist id="2ece013e-334a-4824-bb87-25608c190596" name="Changes" comment="" />
+      <created>1715135561854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715134105898</updated>
-      <workItem from="1715134106900" duration="608000" />
+      <updated>1715135561854</updated>
+      <workItem from="1715135562871" duration="842000" />
+      <workItem from="1715153347163" duration="1577000" />
+      <workItem from="1715253973813" duration="5999000" />
+      <workItem from="1715308012823" duration="32677000" />
+      <workItem from="1715346683943" duration="969000" />
+      <workItem from="1715396976907" duration="7056000" />
+      <workItem from="1715404136907" duration="45299000" />
+      <workItem from="1715513169071" duration="12159000" />
+      <workItem from="1715581671776" duration="65000" />
+      <workItem from="1715588149029" duration="781000" />
+      <workItem from="1715844990530" duration="1266000" />
+      <workItem from="1716089486164" duration="3878000" />
+      <workItem from="1716366342825" duration="1071000" />
+      <workItem from="1716537125244" duration="4000" />
+      <workItem from="1716716882308" duration="26000" />
     </task>
+    <task id="LOCAL-00001" summary="프로젝트#1b">
+      <option name="closed" value="true" />
+      <created>1716377013523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716377013523</updated>
+    </task>
+    <task id="LOCAL-00002" summary="프로젝트#1b">
+      <option name="closed" value="true" />
+      <created>1716377283664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716377283664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="프로젝트#1b" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로젝트#1b" />
   </component>
 </project>
