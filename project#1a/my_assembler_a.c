@@ -1,5 +1,5 @@
 /**
- * @file my_assembler_20221846.c
+ * @file my_assembler_00000000.c
  * @date 2024-04-29
  * @version 0.1.0
  *
@@ -18,7 +18,7 @@
 #include <ctype.h>
 
 /* 파일명의 "00000000"은 자신의 학번으로 변경할 것 */
-#include "my_assembler_20221846-1.h"
+#include "my_assembler_00000000.h"
 
 #define HEADER_RECORD 'H'
 #define TEXT_RECORD 'T'
